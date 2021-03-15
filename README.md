@@ -20,12 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Stats](https://github-readme-stats.vercel.app/api?username=vy3191&show_icons=true&count_private=true%22%20align=%22center&hide=stars,issues)
 <br>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vy3191&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Venky's Github Stats">
-
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vy3191&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vy3191/github-readme-stats)
